@@ -2,7 +2,7 @@
 
 ## Author
 - Name: [Chinonso Mpama]
-- Slack Username: @[chi.mpama]
+- Slack Username: @[Nonskie]
 
 ## Project Description
 This is my submission for the HNG13 DevOps Stage 0 task. It deploys a custom NGINX web server serving a personalized index.html page. The server is live and accessible publicly on port 80.
